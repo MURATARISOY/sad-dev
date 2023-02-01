@@ -5,3 +5,6 @@ console.log("Hello Word") // 2nd time!
 funcion main() {
 return null;
 }
+main()
+
+//console.log(main)
